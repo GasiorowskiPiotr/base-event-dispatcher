@@ -1,0 +1,21 @@
+{
+  "name": "base-event-dispatcher",
+  "version": "0.1.1",
+  "main": "dist/js/base-event-distpacher.min.js",
+  "authors": [
+    "Piotr Gąsiorowski <gasiorowski.piotr@gmail.com>"
+  ],
+  "description": "Event Dispatcher - base classes",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
